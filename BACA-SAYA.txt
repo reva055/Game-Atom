@@ -1,0 +1,13 @@
+Monopoli Atom - Game Edukasi Teori Atom
+
+Cara menjalankan:
+1. Ekstrak file ZIP ini.
+2. Buka index.html dengan browser (Chrome, Firefox, Edge, Safari).
+Tidak perlu instalasi atau internet.
+
+Cara mengubah isi game (buka index.html dengan editor teks):
+- Petak dan pertanyaan : array C
+- Kartu kesempatan     : array CARDS
+- Jumlah putaran       : MAXR
+
+Cara hosting gratis: unggah folder ini ke Netlify, Vercel, atau GitHub Pages.
